@@ -1,0 +1,8 @@
+                              List of roles
+ Role name  |                         Attributes                         
+------------+------------------------------------------------------------
+ app_core   | Superuser
+ ex_soporte | 
+ postgres   | Superuser, Create role, Create DB, Replication, Bypass RLS
+ reportes   | 
+
